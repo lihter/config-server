@@ -2,7 +2,7 @@ server:
   port: 8002
 
 temperature:
-  unit: C
+  unit: K
 
 microservices:
   humidity: humidity-microservice
